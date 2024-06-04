@@ -1,1 +1,2 @@
-# Repositorio de Martin Navarro
+# Repositorio de Computación II 
+## Autor: Martin Navarro
