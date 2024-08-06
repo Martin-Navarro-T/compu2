@@ -4,7 +4,7 @@ import procesamiento_imagen as pi
 import signal
 
 def ejecutar():
-    #Coordina la ejecución del procesamiento de imágenes: carga, división, procesamiento y unión.
+    # Coordina la ejecución del procesamiento de imágenes: carga, división, procesamiento y unión.
 
     root = tk.Tk()
     root.withdraw()
